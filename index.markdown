@@ -18,7 +18,7 @@ To be added
 ---
 #### Sample
 
-<iframe width="720" height="480" src="https://www.youtube.com/embed/SMeGDJM4W1c" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/SMeGDJM4W1c" frameborder="0" allowfullscreen></iframe>
 
 
 
