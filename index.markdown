@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-# Title
+# Facetron: Multi-speaker Face-to-Speech Model based on Cross-modal Latent Representations
 
 ### Abstract 
 ---
