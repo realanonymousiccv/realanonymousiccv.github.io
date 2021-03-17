@@ -16,15 +16,10 @@ To be added
 
 ### Samples
 ---
-#### Sub-section
-Video (Youtube URL)
+#### Sample
+
+<iframe width="720" height="480" src="https://www.youtube.com/embed/SMeGDJM4W1c" frameborder="0" allowfullscreen></iframe>
 
 
-#### Sub-section
-Video (Youtube URL)
-
-
-#### Sub-section
-Video (Youtube URL)
 
 
