@@ -14,7 +14,7 @@ To be added
 
 
 
-### Demo Video
+### Samples
 ---
 #### Sub-section
 Video (Youtube URL)
