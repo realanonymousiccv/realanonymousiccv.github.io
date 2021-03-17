@@ -24,7 +24,7 @@ We show the superiority of our proposed model over conventional methods in terms
 ---
 #### Sample
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/SMeGDJM4W1c" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="300" src="https://www.youtube.com/embed/SMeGDJM4W1c" frameborder="0" allowfullscreen></iframe>
 
 
 
