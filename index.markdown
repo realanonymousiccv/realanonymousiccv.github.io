@@ -16,8 +16,20 @@ In this paper, we propose an effective method to synthesize speaker-specific spe
 
 ### Samples
 ---
-#### Sample
+#### Small dataset (Comparison with previous methods)
+Video to be added
 
+
+#### Large dataset
+##### Seen speakers
+Video to be added
+
+
+##### Unseen speakers
+Video to be added
+
+
+#### Sample
 <iframe width="480" height="300" src="https://www.youtube.com/embed/SMeGDJM4W1c" frameborder="0" allowfullscreen></iframe>
 
 
