@@ -20,12 +20,11 @@ In this paper, we propose an effective method to synthesize speaker-specific spe
 <iframe width="480" height="300" src="https://www.youtube.com/embed/bzYuJNijAfI" frameborder="0" allowfullscreen></iframe>
 
 
-#### Large dataset
-##### Seen speakers
+#### Large dataset - Seen speakers
 <iframe width="480" height="300" src="https://www.youtube.com/embed/2iN6fR1soaM" frameborder="0" allowfullscreen></iframe>
 
 
-##### Unseen speakers
+#####  Large dataset - Unseen speakers
 <iframe width="480" height="300" src="https://www.youtube.com/embed/GZJcvP1x8cw" frameborder="0" allowfullscreen></iframe>
 
 
