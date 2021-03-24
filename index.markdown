@@ -8,7 +8,7 @@ layout: home
 
 # Facetron: Multi-speaker Face-to-Speech Model based on Cross-modal Latent Representations
 
-Submitted ICCV 2021 (Paper number: 8391)
+Submitted to ICCV 2021 (Paper number: 8391)
 
 ### Abstract 
 ---
